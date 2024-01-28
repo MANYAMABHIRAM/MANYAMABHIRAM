@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm CSE undergraduate😎😎.
 
-I'm cuurently working on Web Development.
+I'm cuurently working on Web Development and Tableau.
 
-I'm interested in Blockchain Development.
+I'm interested in Data Analysis.
 
 I'm consistent in doing competitive programming.
